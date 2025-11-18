@@ -9,7 +9,6 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-
 def main():
     # Load  API key from .env file
     load_dotenv()
